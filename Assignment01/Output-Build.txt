@@ -1,0 +1,6 @@
+﻿Build started at 16:26...
+1>------ Build started: Project: Assignment01, Configuration: Debug Any CPU ------
+1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>  Assignment01 -> C:\Users\sompo\source\repos\GI113-2026-1690702244\Assignment01\bin\Debug\net10.0\Assignment01.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 16:26 and took 01.471 seconds ==========
